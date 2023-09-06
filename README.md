@@ -8,3 +8,5 @@ If you are a Mac user first configure your machine by following the guide here: 
 
 On the top spec macbook pro at the time of writing, the code will take approx 15min to run.
 This code was adapted from the PyTorch website: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+Key words: discrete state space; discrete action space; deterministic environment; episodic task.
